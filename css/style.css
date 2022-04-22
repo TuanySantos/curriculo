@@ -65,3 +65,109 @@ h1 {
   border: 1px solid #E7E7E7 ;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
+
+.lineOne {
+position: absolute;
+width: 292.06px;
+height: 0px;
+left: 18px;
+top: 365px;
+border: 2px solid #8D939B;
+}
+
+.lineThree {
+position: absolute;
+width: 292.06px;
+height: 0px;
+left: 18px;
+top: 820.06px;
+border: 2px solid #8D939B;
+}
+
+.endereco {
+  position: absolute;
+  width: 314px;
+  height: 69.59px;
+  left: 20px;
+  top: 421.41px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ECEFF1;
+}
+
+.telefone {
+position: absolute;
+width: 157px;
+height: 18.78px;
+left: 20px;
+top: 524.69px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #ECEFF1;
+}
+
+.email {
+position: absolute;
+width: 195px;
+height: 19px;
+left: 20px;
+top: 587px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #ECEFF1;
+}
+
+.linkedIn {
+
+  position: absolute;
+width: 398px;
+height: 21.96px;
+left: 20px;
+top: 654.04px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #ECEFF1;
+
+}
+
+.linkedIn a {
+  text-decoration:none;
+  color: #ECEFF1;
+}
+
+.github {
+
+position: absolute;
+width: 398px;
+height: 21.96px;
+left: 20px;
+top: 726.04px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: #ECEFF1;
+
+}
+
+.github a {
+  text-decoration:none;
+  color: #ECEFF1;
+}
+
+.label {
+  font-weight: bold
+}
